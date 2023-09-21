@@ -1,4 +1,4 @@
-# Projeto Frases em React/Typescript
+# Projeto Frases em React/Typescript 
 
 Projeto simples que criei gerando Frases usando React/Typescript.
 
