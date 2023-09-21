@@ -8,5 +8,5 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 
 ## ⚙️ Executando os testes
 
-Necessário ter React instalado.
+Necessário ter React, React Router Dom e React icons instalado.
 
